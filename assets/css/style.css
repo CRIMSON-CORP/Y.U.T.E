@@ -365,8 +365,17 @@ h6 {
 
 #hero h2 {
     color: #515f7d;
-    margin-bottom: 50px;
-    font-size: 20px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bolder;
+    line-height: 2.5rem;
+}
+
+#hero h2 span {
+    background: #415f9d;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 5px;
 }
 
 #hero .download-btn {
